@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perspective Shift Role-Play Reflection Worksheet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin: 8px 0 4px;
+            font-weight: bold;
+        }
+        textarea {
+            width: 100%;
+            height: 80px;
+            resize: vertical;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Perspective Shift Role-Play Reflection Worksheet</h1>
+
+    <form>
+
+        <div class="section">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" style="width: 100%;">
+        </div>
+
+        <div class="section">
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date" style="width: 100%;">
+        </div>
+
+        <h2>Part 1: Understanding Perspectives</h2>
+
+        <div class="section">
+            <label for="conflict-scenario">1. Describe the conflict scenario your group worked on:</label>
+            <textarea id="conflict-scenario" name="conflict-scenario"></textarea>
+        </div>
+
+        <div class="section">
+            <label for="initial-perspective">2. What was your initial perspective in the conflict?</label>
+            <textarea id="initial-perspective" name="initial-perspective"></textarea>
+        </div>
+
+        <div class="section">
+            <label for="switch-roles">3. How did it feel to switch roles and view the conflict from the other person’s perspective?</label>
+            <textarea id="switch-roles" name="switch-roles"></textarea>
+        </div>
+
+        <div class="section">
+            <label for="understanding-change">4. Did your understanding of the conflict change after seeing it from the other side? Explain.</label>
+            <textarea id="understanding-change" name="understanding-change"></textarea>
+        </div>
+
+        <h2>Part 2: Applying Conflict Resolution Strategies</h2>
+
+        <div class="section">
+            <label for="techniques-used">5. Which conflict resolution techniques did you use (e.g., "I" statements, active listening)?</label>
+            <textarea id="techniques-used" name="techniques-used"></textarea>
+        </div>
+
+        <div class="section">
+            <label for="best-techniques">6. Which techniques seemed to work best, and why?</label>
+            <textarea id="best-techniques" name="best-techniques"></textarea>
+        </div>
+
+        <div class="section">
+            <label for="turning-point">7. Was there a moment when you felt the conflict could be resolved? What led to that turning point?</label>
+            <textarea id="turning-point" name="turning-point"></textarea>
+        </div>
+
+        <h2>Part 3: Reflection and Takeaways</h2>
+
+        <div class="section">
+            <label for="learned-communication">8. What did you learn about effective communication from this activity?</label>
+            <textarea id="learned-communication" name="learned-communication"></textarea>
+        </div>
+
+        <div class="section">
+            <label for="future-application">9. How will you apply what you learned in future team settings?</label>
+            <textarea id="future-application" name="future-application"></textarea>
+        </div>
+
+        <div class="section">
+            <label for="additional-thoughts">10. Any additional thoughts or insights about handling conflicts constructively?</label>
+            <textarea id="additional-thoughts" name="additional-thoughts"></textarea>
+        </div>
+
+    </form>
+
+</body>
+</html>
