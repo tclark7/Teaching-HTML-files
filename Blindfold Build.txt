@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blindfold Build Activity</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul, ol {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Blindfold Build Activity</h1>
+    
+    <h2>Building Challenge (10-15 minutes)</h2>
+    <ul>
+        <li>The Guide looks at the example structure and describes the steps to recreate it.</li>
+        <li>The Builders, who are blindfolded, must rely entirely on the Guide’s instructions without being able to see the structure or the pieces.</li>
+        <li>Builders should communicate back to the Guide if they’re unsure or need clarification, practicing trust in their teammate’s directions.</li>
+    </ul>
+
+    <p>After completing the activity or when time is up, click on this <a href="https://app.conceptboard.com/board/tu7z-ygc5-ou4m-9qdi-1yn9" target="_blank">link</a> and work with your group to complete the debrief.</p>
+
+    <h2>What Students Learn from the Blindfold Build Activity</h2>
+    <ol>
+        <li><strong>Trust and Reliance on Others:</strong> Builders must rely entirely on the Guide’s instructions, building trust in their teammate's ability to provide clear and accurate guidance. This reliance fosters a sense of interdependence that is essential for effective teamwork.</li>
+        <li><strong>Clear and Concise Communication:</strong> The Guide learns to communicate instructions clearly and simply, avoiding assumptions and ensuring every direction is understandable. Builders, in turn, practice communicating back to verify instructions, improving two-way communication.</li>
+        <li><strong>Active Listening:</strong> Builders must listen attentively to the Guide’s instructions without visual cues. This challenge emphasizes the importance of active listening skills in teamwork, as misunderstandings can easily arise without them.</li>
+        <li><strong>Patience and Adaptability:</strong> Both roles require patience—Builders need to work at a pace that allows them to process instructions without visual aid, while the Guide has to adapt instructions based on the Builders’ responses and needs.</li>
+        <li><strong>Problem-Solving and Collaboration Under Constraints:</strong> Working with limited resources (blindfolds and verbal-only instructions) encourages the team to find creative solutions and collaborate closely, fostering a stronger team dynamic.</li>
+        <li><strong>Empathy and Perspective-Taking:</strong> Experiencing the challenges of both roles helps students empathize with their teammates, recognizing the difficulties in guiding others and following without seeing.</li>
+    </ol>
+
+    <p>Together, these skills reinforce a stronger foundation for teamwork, improving each student’s ability to communicate, trust, and collaborate effectively in various settings.</p>
+
+</body>
+</html>
